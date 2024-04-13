@@ -1,0 +1,15 @@
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.deps.json
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.runtimeconfig.json
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.dll
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.pdb
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.csproj.CoreCompileInputs.cache
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.dll
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/refint/UserAgeValidation.dll
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.pdb
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.genruntimeconfig.cache
+/Users/airevuchmann/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/ref/UserAgeValidation.dll

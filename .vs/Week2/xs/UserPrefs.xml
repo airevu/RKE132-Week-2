@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8948236A-FC7E-442F-920D-18414BB37F32}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week2/Program.cs">
+    <Files>
+      <File FileName="UserAgeValidation/Program.cs" />
+      <File FileName="UserGenderValidation/Program.cs" />
+      <File FileName="Week2/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week2" expanded="True" selected="True">
+            <Node name="UserAgeValidation" expanded="True" />
+            <Node name="Week2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UserAgeValidation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UserGenderValidation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Week2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
